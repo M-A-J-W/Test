@@ -1,0 +1,23 @@
+/* Ensure page fills viewport for centering */
+html, body {
+  height: 100%;
+}
+
+/* Center content both vertically and horizontally */
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f8f9fb;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+/* Smooth rotation on the heading */
+h1 {
+  margin: 0;
+  transition: transform 0.5s ease;
+  text-align: center;
+  text-decoration: line-through;
+}
