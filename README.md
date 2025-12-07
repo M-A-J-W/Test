@@ -1,5 +1,7 @@
 <h1>Überschrift</h1>
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=<repo-id>)
+
 ## Status
 - Läuft.
 - Oder auch nicht.
